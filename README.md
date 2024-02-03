@@ -83,6 +83,10 @@ https://github.com/debasishdtt/vprofile-project/assets/81139107/132753f7-8765-4a
 
 <p align="center">Fig. 2: Status of the application stack</p> 
 
+Provisioning the entire stack with only one command 'vagrant up' is just fun.
+
+<h4>All of the scripts required for automated provisioning will be found: vagrant/Automated_provisioning</h4>
+
 https://github.com/debasishdtt/vprofile-project/assets/81139107/c4d6c626-e516-4236-a7d5-bf2f27b2dd98
 
 <p align="center">Fig. 3: Automated provision of the application stack</p> 
